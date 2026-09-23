@@ -32,8 +32,8 @@ Apuntes, ejemplos y ejercicios de la asignatura **Sistemas de Gestión Empresari
 
 ---
 
-## Estructura de cada bloque
+## Estructura de cada tema
 
-- **`temaXX/apuntes.md`** — Resumen teórico de cada tema
-- **`casos-practicos/cpXX.md`** — Casos prácticos con su resolución
-- **`ejercicios/`** — Ejercicios para practicar y desarrollados en clase
+- **`apuntes.md`** — Resumen teórico de cada tema
+- **`casospracticosmd`** — Casos prácticos con su resolución
+- **`ejercicios.md`** — Ejercicios para practicar y desarrollados en clase
