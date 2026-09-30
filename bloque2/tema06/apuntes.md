@@ -60,10 +60,10 @@ Además de libre, código abierto y propietario (vistas en el Tema 2), hay que c
 | Tipo de licencia | Qué significa |
 |-------------------|-----------------|
 | **Dominio público** | No tiene derechos de autor |
-| **Laxa o permisiva** | Permite usar el código de cualquier forma |
-| **Copyleft** | Si coges el código, lo modificas y lo distribuyes (lo compartes o vendes), tienes que hacer público tu código también — "si lo compartes, se comparte igual que te lo dieron |
-| **GPL de GNU** (*General Public License*) | Es "la marca" concreta de copyleft de Linux y muchísimo software libre |
-| **Comercial** | Desarrollado por una empresa que busca ganar dinero con su uso |
+| **Laxa o permisiva** |	Puedes meterlo dentro de tu propio programa de pago sin obligación de compartir tus cambios |
+| **Copyleft** | Si coges el código, lo modificas y lo distribuyes (lo compartes o vendes), tienes que hacer público tu código también — "si lo compartes, se comparte igual que te lo dieron". Software libre cuyos términos obligan a que las versiones modificadas y distribuidas sigan siendo libres |
+| **GPL de GNU** (*General Public License*) | Es, sencillamente, el nombre de la licencia copyleft más usada y famosa. Es "la marca" concreta de copyleft de Linux y muchísimo software libre |
+| **Comercial** | Desarrollado por una empresa que busca ganar dinero con su uso. La típica: pagas, usas, normalmente sin acceso al código fuente |
 
 > 💡 **El núcleo de Odoo tiene licencia LGPLv3** — una licencia de protección débil (*weak copyleft*) que permite enlazar módulos privados al código y no obliga a difundir el código propio que use Odoo bajo esa licencia. Por eso Odoo puede tener a la vez una versión comunitaria libre y módulos empresariales de pago conviviendo en el mismo sistema.
 
