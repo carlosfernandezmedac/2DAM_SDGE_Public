@@ -11,8 +11,8 @@ Apuntes, ejemplos y ejercicios de la asignatura **Sistemas de Gestión Empresari
 | Bloque | Temas | Contenido |
 |--------|-------|-----------|
 | [Bloque 1 — Fundamentos ERP-CRM](bloque1/README.md) | 1, 2, 5 | Historia y concepto de ERP/CRM, panorama de soluciones libres y propietarias, requisitos y entorno de instalación |
-| [Bloque 2 — Implantación de sistemas ERP-CRM](bloque2/README.md) | 3, 4, 6 | Módulos de un ERP, proyecto de implantación, tipos de instalación |
-| [Bloque 3 — Procesos de negocio en el ERP](bloque3/README.md) | 7, 8 | Flujo de compra-venta, gestión de fabricación y punto de venta |
+| [Bloque 2 — Instalación y módulos del ERP-CRM](bloque2/README.md) | 6, 3 | Tipos de instalación (Docker, código fuente, hosting) y módulos de un ERP |
+| [Bloque 3 — Implantación y procesos de negocio](bloque3/README.md) | 4, 7, 8 | Proyecto de implantación y perfiles, flujo de compra-venta, fabricación y punto de venta |
 
 ### 2º Trimestre
 
@@ -35,5 +35,5 @@ Apuntes, ejemplos y ejercicios de la asignatura **Sistemas de Gestión Empresari
 ## Estructura de cada tema
 
 - **`apuntes.md`** — Resumen teórico de cada tema
-- **`casospracticosmd`** — Casos prácticos con su resolución
+- **`casospracticos.md`** — Casos prácticos con su resolución
 - **`ejercicios.md`** — Ejercicios para practicar y desarrollados en clase
