@@ -25,7 +25,6 @@ Antes de decidir, la empresa se pregunta: ¿es necesario?, ¿qué beneficio trae
 El proyecto tiene **8 fases**, cada una con tareas y documentación:
 
 ```
- ANTES                  DURANTE                        DESPUÉS
 ┌────────────┐  ┌──────────┐  ┌────────────┐  ┌────────┐
 │1 Planifica-│─►│2 Análisis│─►│3 Parametri-│─►│4Pruebas│
 │   ción     │  │consultor.│  │zación/dise.│  │        │
@@ -36,6 +35,11 @@ El proyecto tiene **8 fases**, cada una con tareas y documentación:
 └────────────┘  └──────────┘  └────────────┘  └────────┘
 ```
 
+| Momento | Fases | Qué ocurre |
+|---------|-------|------------|
+| **ANTES** de implantar | 1 Planificación · 2 Consultoría | Se decide y se documenta qué se va a hacer |
+| **DURANTE** la implantación | 3 Parametrización · 4 Pruebas · 5 Formación · 6 Migración y arranque | Se construye, se prueba y se pone en marcha |
+| **DESPUÉS** de implantar | 7 Soporte y seguimiento · 8 Mantenimiento | Se atiende al cliente ya en producción |
 
 ### Los roles: quién es quién
 
