@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1860" height="560" viewBox="0 0 1860 560" font-family="Verdana, Arial, sans-serif">
+<rect width="1860" height="560" fill="#ffffff"/>
+<defs><marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#475569"/></marker></defs>
+<text x="50" y="60" font-size="30" font-weight="700" fill="#0F766E">COMPRA (aumenta el stock)</text>
+<text x="930" y="60" font-size="30" font-weight="700" fill="#1D4ED8">VENTA (reduce el stock)</text>
+<rect x="50" y="150" width="180" height="150" rx="16" fill="#CCFBF1" stroke="#0F766E" stroke-width="4"/>
+<circle cx="80" cy="180" r="20" fill="#0F766E"/><text x="80" y="188" text-anchor="middle" font-size="24" font-weight="700" fill="#fff">1</text>
+<text x="140.0" y="230" text-anchor="middle" font-size="26" font-weight="700" fill="#0F172A">Crear</text>
+<text x="140.0" y="258" text-anchor="middle" font-size="18" fill="#334155">producto</text>
+<text x="140.0" y="286" text-anchor="middle" font-size="17" font-weight="700" fill="#0F766E">[Compra]</text>
+<line x1="232" y1="225.0" x2="266" y2="225.0" stroke="#475569" stroke-width="4" marker-end="url(#a)"/>
+<rect x="270" y="150" width="180" height="150" rx="16" fill="#CCFBF1" stroke="#0F766E" stroke-width="4"/>
+<circle cx="300" cy="180" r="20" fill="#0F766E"/><text x="300" y="188" text-anchor="middle" font-size="24" font-weight="700" fill="#fff">2</text>
+<text x="360.0" y="230" text-anchor="middle" font-size="26" font-weight="700" fill="#0F172A">Comprar</text>
+<text x="360.0" y="258" text-anchor="middle" font-size="18" fill="#334155">pedido de compra</text>
+<text x="360.0" y="286" text-anchor="middle" font-size="17" font-weight="700" fill="#0F766E">[Compra]</text>
+<line x1="452" y1="225.0" x2="486" y2="225.0" stroke="#475569" stroke-width="4" marker-end="url(#a)"/>
+<rect x="490" y="150" width="180" height="150" rx="16" fill="#CCFBF1" stroke="#0F766E" stroke-width="4"/>
+<circle cx="520" cy="180" r="20" fill="#0F766E"/><text x="520" y="188" text-anchor="middle" font-size="24" font-weight="700" fill="#fff">3</text>
+<text x="580.0" y="230" text-anchor="middle" font-size="26" font-weight="700" fill="#0F172A">Recibir</text>
+<text x="580.0" y="258" text-anchor="middle" font-size="18" fill="#334155">recepción</text>
+<text x="580.0" y="286" text-anchor="middle" font-size="17" font-weight="700" fill="#0F766E">[Inventario]</text>
+<line x1="672" y1="225.0" x2="706" y2="225.0" stroke="#475569" stroke-width="4" marker-end="url(#a)"/>
+<rect x="710" y="150" width="180" height="150" rx="16" fill="#CCFBF1" stroke="#0F766E" stroke-width="4"/>
+<circle cx="740" cy="180" r="20" fill="#0F766E"/><text x="740" y="188" text-anchor="middle" font-size="24" font-weight="700" fill="#fff">4</text>
+<text x="800.0" y="230" text-anchor="middle" font-size="26" font-weight="700" fill="#0F172A">Factura</text>
+<text x="800.0" y="258" text-anchor="middle" font-size="18" fill="#334155">del proveedor</text>
+<text x="800.0" y="286" text-anchor="middle" font-size="17" font-weight="700" fill="#0F766E">[Facturación]</text>
+<line x1="892" y1="225.0" x2="926" y2="225.0" stroke="#475569" stroke-width="4" marker-end="url(#a)"/>
+<rect x="930" y="150" width="180" height="150" rx="16" fill="#DBEAFE" stroke="#1D4ED8" stroke-width="4"/>
+<circle cx="960" cy="180" r="20" fill="#1D4ED8"/><text x="960" y="188" text-anchor="middle" font-size="24" font-weight="700" fill="#fff">5</text>
+<text x="1020.0" y="230" text-anchor="middle" font-size="26" font-weight="700" fill="#0F172A">Vender</text>
+<text x="1020.0" y="258" text-anchor="middle" font-size="18" fill="#334155">pedido de venta</text>
+<text x="1020.0" y="286" text-anchor="middle" font-size="17" font-weight="700" fill="#1D4ED8">[Ventas]</text>
+<line x1="1112" y1="225.0" x2="1146" y2="225.0" stroke="#475569" stroke-width="4" marker-end="url(#a)"/>
+<rect x="1150" y="150" width="180" height="150" rx="16" fill="#DBEAFE" stroke="#1D4ED8" stroke-width="4"/>
+<circle cx="1180" cy="180" r="20" fill="#1D4ED8"/><text x="1180" y="188" text-anchor="middle" font-size="24" font-weight="700" fill="#fff">6</text>
+<text x="1240.0" y="230" text-anchor="middle" font-size="26" font-weight="700" fill="#0F172A">Entregar</text>
+<text x="1240.0" y="258" text-anchor="middle" font-size="18" fill="#334155">orden de entrega</text>
+<text x="1240.0" y="286" text-anchor="middle" font-size="17" font-weight="700" fill="#1D4ED8">[Inventario]</text>
+<line x1="1332" y1="225.0" x2="1366" y2="225.0" stroke="#475569" stroke-width="4" marker-end="url(#a)"/>
+<rect x="1370" y="150" width="180" height="150" rx="16" fill="#DBEAFE" stroke="#1D4ED8" stroke-width="4"/>
+<circle cx="1400" cy="180" r="20" fill="#1D4ED8"/><text x="1400" y="188" text-anchor="middle" font-size="24" font-weight="700" fill="#fff">7</text>
+<text x="1460.0" y="230" text-anchor="middle" font-size="26" font-weight="700" fill="#0F172A">Facturar</text>
+<text x="1460.0" y="258" text-anchor="middle" font-size="18" fill="#334155">factura al cliente</text>
+<text x="1460.0" y="286" text-anchor="middle" font-size="17" font-weight="700" fill="#1D4ED8">[Facturación]</text>
+<line x1="1552" y1="225.0" x2="1586" y2="225.0" stroke="#475569" stroke-width="4" marker-end="url(#a)"/>
+<rect x="1590" y="150" width="180" height="150" rx="16" fill="#DBEAFE" stroke="#1D4ED8" stroke-width="4"/>
+<circle cx="1620" cy="180" r="20" fill="#1D4ED8"/><text x="1620" y="188" text-anchor="middle" font-size="24" font-weight="700" fill="#fff">8</text>
+<text x="1680.0" y="230" text-anchor="middle" font-size="26" font-weight="700" fill="#0F172A">Cobrar</text>
+<text x="1680.0" y="258" text-anchor="middle" font-size="18" fill="#334155">registro del pago</text>
+<text x="1680.0" y="286" text-anchor="middle" font-size="17" font-weight="700" fill="#1D4ED8">[Facturación]</text>
+<line x1="580.0" y1="304" x2="580.0" y2="370" stroke="#475569" stroke-width="4" marker-end="url(#a)"/>
+<text x="580.0" y="400" text-anchor="middle" font-size="24" font-weight="700" fill="#B45309">stock ▲ sube</text>
+<line x1="1240.0" y1="304" x2="1240.0" y2="370" stroke="#475569" stroke-width="4" marker-end="url(#a)"/>
+<text x="1240.0" y="400" text-anchor="middle" font-size="24" font-weight="700" fill="#B45309">stock ▼ baja</text>
+<rect x="50" y="440" width="1760" height="80" rx="16" fill="#FEF3C7" stroke="#B45309" stroke-width="4"/>
+<text x="880.0" y="490" text-anchor="middle" font-size="28" font-weight="700" fill="#0F172A">9. Analizar los beneficios (informes de ventas, stock y facturas)</text>
+</svg>
