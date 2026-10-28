@@ -27,7 +27,7 @@ Para la simulación necesitamos, al menos, estas aplicaciones:
 
 ### Pasos del flujo
 
-   ![Flujo de compra-venta en Odoo](img/flujo_compraventa.png)
+   ![Flujo de compra-venta en Odoo](img/flujo_compraventa.svg)
 
 ---
 
